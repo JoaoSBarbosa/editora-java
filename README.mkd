@@ -1,0 +1,15 @@
+## Algoritmo em linguagem Java - Treinamento de Herança e Encapsulamento
+
+- Criar a classe principal Livro
+- Criar as subclasses: LivroDigital e LivroFisico;
+- Criar uma classe com Autor com relacionamento composição com a classe Livro;
+- Aplicar os conceitos de encapsulamento e herança
+
+
+
+![](C:\Users\joao1\Downloads\Desenho1.jpg)
+
+
+
+
+
